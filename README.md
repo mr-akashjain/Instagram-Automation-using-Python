@@ -8,7 +8,7 @@ Three things you need:
 3. Even if you dont want to use above mentioned api, it will work.
 
 Steps:
-1. Enter the name of accounts, whose images you want to share in ig_users.txt
+1. Enter the name of accounts, whose images you want to share in ig_users.txt(each account in a new line)
 2. Run pip install -r requirements.txt
 3. Create free google cloud platform account(needs debit/credit card) and download json file(keep it in same directory as notebook), which contains service account to use api using python client.(This step is optional and is used to filter images, which contains owner's signatures and for object detecion to classify objects into different categories to assign different tags and captions accordingly to these tags)
 4. Run jupyter notebook and read comments to understand thoroughly.
