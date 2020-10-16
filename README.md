@@ -1,5 +1,6 @@
 # Instagram-Automation-using-Python
 After reading a medium article about a guy who eats for free in New York using automation, artificial intelligence and Instagram, I decided to build this system for me.
+article linl: https://medium.com/@chrisbuetti/how-i-eat-for-free-in-nyc-using-python-automation-artificial-intelligence-and-instagram-a5ed8a1e2a10
 After experimenting with my two instagram accounts, I decided to open source the code for this project.
 
 Three things you need:
