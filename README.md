@@ -1,7 +1,8 @@
 # Instagram-Automation-using-Python
 After reading a medium article about a guy who eats for free in New York using automation, artificial intelligence and Instagram, I decided to build this system for me.
 article linl: https://medium.com/@chrisbuetti/how-i-eat-for-free-in-nyc-using-python-automation-artificial-intelligence-and-instagram-a5ed8a1e2a10
-After experimenting with my two instagram accounts, I decided to open source the code for this project.
+
+After experimenting with  two instagram accounts, I decided to open source the code for this project.
 
 Three things you need:
 1. Instagram account
@@ -19,3 +20,7 @@ Note: You can also use open source alternatives to gcp for image processing like
 
 Note: A lot more can be done if you want. Thank you for visiting this repo and if you have any doubts you can raise an issue and I will try to resolve them.
 Please star my repo, if you like my work.
+
+I have deleted the instagram accounts I created for experimentation. This repo is only for sharing knowledge. Bots are not permitted on instagram as it affects real users. Please do not use this code for doing any unethical activity on instagram.
+
+Thank you open source community for sharing immense amount of knowledge everday on world wide web.
