@@ -13,3 +13,6 @@ Steps:
 3. Create free google cloud platform account(needs debit/credit card) and download json file(keep it in same directory as notebook), which contains service account to use api using python client.(This step is optional and is used to filter images, which contains owner's signatures and for object detecion to classify objects into different categories to assign different tags and captions accordingly to these tags). You can use the free credits to run a vm instance on gcp and run your code from there for free for 1 year.
 4. Run jupyter notebook and read comments to understand thoroughly.
 5. Specify hashtags, captions, comments according to your theme of isntagram page inside jupyter notebook.
+
+
+Note: A lot more can be done if you want. Thank you for visiting this repo and if you have any doubts you can raise an issue and I will try to resolve them.
